@@ -1,0 +1,14 @@
+hr.custom-line {
+    width: 200px;
+    margin: auto;
+}
+
+.card-custom {
+    width: 18rem;
+}
+
+.card-img-custom {
+    height: 350px;
+    object-fit: cover;
+}
+
