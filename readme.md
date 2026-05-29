@@ -94,11 +94,17 @@ http://127.0.0.1:8000/
 
 ## 📸 Capturas
 
-Agregar aquí capturas de pantalla de:
+### Página principal
 
-* Página principal.
-* Detalle de película.
-* Panel de administración.
+![Página principal](screenshots/home.png)
+
+### Detalle de película
+
+![Detalle](screenshots/details.png)
+
+### Panel de administración
+
+![Admin](screenshots/admin.png)
 
 ## 🔮 Mejoras Futuras
 
